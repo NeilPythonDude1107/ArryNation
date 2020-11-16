@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to right, rgb(26, 255, 255) , rgb(26, 255, 214));
+}
+
+.Phrase {
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 50px;            
+}
+
+.img {
+    width: 700px;
+    margin-top: 0.025%;
+}
+
+.chat-img {
+    margin-left: 2%;
+    float: left;
+}
+
+.org-img {
+    float: right;
+    padding-right: 2%;
+}
+
+.org-description {
+    padding-left: 2%;
+}
+
+.teams-img {
+    float: right;
+    padding-right: 3.5%;
+}
+
+.header {
+    text-align: center;
+}
+
+.teams-description {
+    padding-left: 2.5%;
+}
